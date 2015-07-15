@@ -1,0 +1,241 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Total: - Speak only English
+HD02_VD02,Margin of Error; Total: - Speak only English
+HD01_VD03,Estimate; Total: - Spanish or Spanish Creole:
+HD02_VD03,Margin of Error; Total: - Spanish or Spanish Creole:
+HD01_VD04,"Estimate; Total: - Spanish or Spanish Creole: - Speak English ""very well"""
+HD02_VD04,"Margin of Error; Total: - Spanish or Spanish Creole: - Speak English ""very well"""
+HD01_VD05,"Estimate; Total: - Spanish or Spanish Creole: - Speak English less than ""very well"""
+HD02_VD05,"Margin of Error; Total: - Spanish or Spanish Creole: - Speak English less than ""very well"""
+HD01_VD06,"Estimate; Total: - French (incl. Patois, Cajun):"
+HD02_VD06,"Margin of Error; Total: - French (incl. Patois, Cajun):"
+HD01_VD07,"Estimate; Total: - French (incl. Patois, Cajun): - Speak English ""very well"""
+HD02_VD07,"Margin of Error; Total: - French (incl. Patois, Cajun): - Speak English ""very well"""
+HD01_VD08,"Estimate; Total: - French (incl. Patois, Cajun): - Speak English less than ""very well"""
+HD02_VD08,"Margin of Error; Total: - French (incl. Patois, Cajun): - Speak English less than ""very well"""
+HD01_VD09,Estimate; Total: - French Creole:
+HD02_VD09,Margin of Error; Total: - French Creole:
+HD01_VD10,"Estimate; Total: - French Creole: - Speak English ""very well"""
+HD02_VD10,"Margin of Error; Total: - French Creole: - Speak English ""very well"""
+HD01_VD11,"Estimate; Total: - French Creole: - Speak English less than ""very well"""
+HD02_VD11,"Margin of Error; Total: - French Creole: - Speak English less than ""very well"""
+HD01_VD12,Estimate; Total: - Italian:
+HD02_VD12,Margin of Error; Total: - Italian:
+HD01_VD13,"Estimate; Total: - Italian: - Speak English ""very well"""
+HD02_VD13,"Margin of Error; Total: - Italian: - Speak English ""very well"""
+HD01_VD14,"Estimate; Total: - Italian: - Speak English less than ""very well"""
+HD02_VD14,"Margin of Error; Total: - Italian: - Speak English less than ""very well"""
+HD01_VD15,Estimate; Total: - Portuguese or Portuguese Creole:
+HD02_VD15,Margin of Error; Total: - Portuguese or Portuguese Creole:
+HD01_VD16,"Estimate; Total: - Portuguese or Portuguese Creole: - Speak English ""very well"""
+HD02_VD16,"Margin of Error; Total: - Portuguese or Portuguese Creole: - Speak English ""very well"""
+HD01_VD17,"Estimate; Total: - Portuguese or Portuguese Creole: - Speak English less than ""very well"""
+HD02_VD17,"Margin of Error; Total: - Portuguese or Portuguese Creole: - Speak English less than ""very well"""
+HD01_VD18,Estimate; Total: - German:
+HD02_VD18,Margin of Error; Total: - German:
+HD01_VD19,"Estimate; Total: - German: - Speak English ""very well"""
+HD02_VD19,"Margin of Error; Total: - German: - Speak English ""very well"""
+HD01_VD20,"Estimate; Total: - German: - Speak English less than ""very well"""
+HD02_VD20,"Margin of Error; Total: - German: - Speak English less than ""very well"""
+HD01_VD21,Estimate; Total: - Yiddish:
+HD02_VD21,Margin of Error; Total: - Yiddish:
+HD01_VD22,"Estimate; Total: - Yiddish: - Speak English ""very well"""
+HD02_VD22,"Margin of Error; Total: - Yiddish: - Speak English ""very well"""
+HD01_VD23,"Estimate; Total: - Yiddish: - Speak English less than ""very well"""
+HD02_VD23,"Margin of Error; Total: - Yiddish: - Speak English less than ""very well"""
+HD01_VD24,Estimate; Total: - Other West Germanic languages:
+HD02_VD24,Margin of Error; Total: - Other West Germanic languages:
+HD01_VD25,"Estimate; Total: - Other West Germanic languages: - Speak English ""very well"""
+HD02_VD25,"Margin of Error; Total: - Other West Germanic languages: - Speak English ""very well"""
+HD01_VD26,"Estimate; Total: - Other West Germanic languages: - Speak English less than ""very well"""
+HD02_VD26,"Margin of Error; Total: - Other West Germanic languages: - Speak English less than ""very well"""
+HD01_VD27,Estimate; Total: - Scandinavian languages:
+HD02_VD27,Margin of Error; Total: - Scandinavian languages:
+HD01_VD28,"Estimate; Total: - Scandinavian languages: - Speak English ""very well"""
+HD02_VD28,"Margin of Error; Total: - Scandinavian languages: - Speak English ""very well"""
+HD01_VD29,"Estimate; Total: - Scandinavian languages: - Speak English less than ""very well"""
+HD02_VD29,"Margin of Error; Total: - Scandinavian languages: - Speak English less than ""very well"""
+HD01_VD30,Estimate; Total: - Greek:
+HD02_VD30,Margin of Error; Total: - Greek:
+HD01_VD31,"Estimate; Total: - Greek: - Speak English ""very well"""
+HD02_VD31,"Margin of Error; Total: - Greek: - Speak English ""very well"""
+HD01_VD32,"Estimate; Total: - Greek: - Speak English less than ""very well"""
+HD02_VD32,"Margin of Error; Total: - Greek: - Speak English less than ""very well"""
+HD01_VD33,Estimate; Total: - Russian:
+HD02_VD33,Margin of Error; Total: - Russian:
+HD01_VD34,"Estimate; Total: - Russian: - Speak English ""very well"""
+HD02_VD34,"Margin of Error; Total: - Russian: - Speak English ""very well"""
+HD01_VD35,"Estimate; Total: - Russian: - Speak English less than ""very well"""
+HD02_VD35,"Margin of Error; Total: - Russian: - Speak English less than ""very well"""
+HD01_VD36,Estimate; Total: - Polish:
+HD02_VD36,Margin of Error; Total: - Polish:
+HD01_VD37,"Estimate; Total: - Polish: - Speak English ""very well"""
+HD02_VD37,"Margin of Error; Total: - Polish: - Speak English ""very well"""
+HD01_VD38,"Estimate; Total: - Polish: - Speak English less than ""very well"""
+HD02_VD38,"Margin of Error; Total: - Polish: - Speak English less than ""very well"""
+HD01_VD39,Estimate; Total: - Serbo-Croatian:
+HD02_VD39,Margin of Error; Total: - Serbo-Croatian:
+HD01_VD40,"Estimate; Total: - Serbo-Croatian: - Speak English ""very well"""
+HD02_VD40,"Margin of Error; Total: - Serbo-Croatian: - Speak English ""very well"""
+HD01_VD41,"Estimate; Total: - Serbo-Croatian: - Speak English less than ""very well"""
+HD02_VD41,"Margin of Error; Total: - Serbo-Croatian: - Speak English less than ""very well"""
+HD01_VD42,Estimate; Total: - Other Slavic languages:
+HD02_VD42,Margin of Error; Total: - Other Slavic languages:
+HD01_VD43,"Estimate; Total: - Other Slavic languages: - Speak English ""very well"""
+HD02_VD43,"Margin of Error; Total: - Other Slavic languages: - Speak English ""very well"""
+HD01_VD44,"Estimate; Total: - Other Slavic languages: - Speak English less than ""very well"""
+HD02_VD44,"Margin of Error; Total: - Other Slavic languages: - Speak English less than ""very well"""
+HD01_VD45,Estimate; Total: - Armenian:
+HD02_VD45,Margin of Error; Total: - Armenian:
+HD01_VD46,"Estimate; Total: - Armenian: - Speak English ""very well"""
+HD02_VD46,"Margin of Error; Total: - Armenian: - Speak English ""very well"""
+HD01_VD47,"Estimate; Total: - Armenian: - Speak English less than ""very well"""
+HD02_VD47,"Margin of Error; Total: - Armenian: - Speak English less than ""very well"""
+HD01_VD48,Estimate; Total: - Persian:
+HD02_VD48,Margin of Error; Total: - Persian:
+HD01_VD49,"Estimate; Total: - Persian: - Speak English ""very well"""
+HD02_VD49,"Margin of Error; Total: - Persian: - Speak English ""very well"""
+HD01_VD50,"Estimate; Total: - Persian: - Speak English less than ""very well"""
+HD02_VD50,"Margin of Error; Total: - Persian: - Speak English less than ""very well"""
+HD01_VD51,Estimate; Total: - Gujarati:
+HD02_VD51,Margin of Error; Total: - Gujarati:
+HD01_VD52,"Estimate; Total: - Gujarati: - Speak English ""very well"""
+HD02_VD52,"Margin of Error; Total: - Gujarati: - Speak English ""very well"""
+HD01_VD53,"Estimate; Total: - Gujarati: - Speak English less than ""very well"""
+HD02_VD53,"Margin of Error; Total: - Gujarati: - Speak English less than ""very well"""
+HD01_VD54,Estimate; Total: - Hindi:
+HD02_VD54,Margin of Error; Total: - Hindi:
+HD01_VD55,"Estimate; Total: - Hindi: - Speak English ""very well"""
+HD02_VD55,"Margin of Error; Total: - Hindi: - Speak English ""very well"""
+HD01_VD56,"Estimate; Total: - Hindi: - Speak English less than ""very well"""
+HD02_VD56,"Margin of Error; Total: - Hindi: - Speak English less than ""very well"""
+HD01_VD57,Estimate; Total: - Urdu:
+HD02_VD57,Margin of Error; Total: - Urdu:
+HD01_VD58,"Estimate; Total: - Urdu: - Speak English ""very well"""
+HD02_VD58,"Margin of Error; Total: - Urdu: - Speak English ""very well"""
+HD01_VD59,"Estimate; Total: - Urdu: - Speak English less than ""very well"""
+HD02_VD59,"Margin of Error; Total: - Urdu: - Speak English less than ""very well"""
+HD01_VD60,Estimate; Total: - Other Indic languages:
+HD02_VD60,Margin of Error; Total: - Other Indic languages:
+HD01_VD61,"Estimate; Total: - Other Indic languages: - Speak English ""very well"""
+HD02_VD61,"Margin of Error; Total: - Other Indic languages: - Speak English ""very well"""
+HD01_VD62,"Estimate; Total: - Other Indic languages: - Speak English less than ""very well"""
+HD02_VD62,"Margin of Error; Total: - Other Indic languages: - Speak English less than ""very well"""
+HD01_VD63,Estimate; Total: - Other Indo-European languages:
+HD02_VD63,Margin of Error; Total: - Other Indo-European languages:
+HD01_VD64,"Estimate; Total: - Other Indo-European languages: - Speak English ""very well"""
+HD02_VD64,"Margin of Error; Total: - Other Indo-European languages: - Speak English ""very well"""
+HD01_VD65,"Estimate; Total: - Other Indo-European languages: - Speak English less than ""very well"""
+HD02_VD65,"Margin of Error; Total: - Other Indo-European languages: - Speak English less than ""very well"""
+HD01_VD66,Estimate; Total: - Chinese:
+HD02_VD66,Margin of Error; Total: - Chinese:
+HD01_VD67,"Estimate; Total: - Chinese: - Speak English ""very well"""
+HD02_VD67,"Margin of Error; Total: - Chinese: - Speak English ""very well"""
+HD01_VD68,"Estimate; Total: - Chinese: - Speak English less than ""very well"""
+HD02_VD68,"Margin of Error; Total: - Chinese: - Speak English less than ""very well"""
+HD01_VD69,Estimate; Total: - Japanese:
+HD02_VD69,Margin of Error; Total: - Japanese:
+HD01_VD70,"Estimate; Total: - Japanese: - Speak English ""very well"""
+HD02_VD70,"Margin of Error; Total: - Japanese: - Speak English ""very well"""
+HD01_VD71,"Estimate; Total: - Japanese: - Speak English less than ""very well"""
+HD02_VD71,"Margin of Error; Total: - Japanese: - Speak English less than ""very well"""
+HD01_VD72,Estimate; Total: - Korean:
+HD02_VD72,Margin of Error; Total: - Korean:
+HD01_VD73,"Estimate; Total: - Korean: - Speak English ""very well"""
+HD02_VD73,"Margin of Error; Total: - Korean: - Speak English ""very well"""
+HD01_VD74,"Estimate; Total: - Korean: - Speak English less than ""very well"""
+HD02_VD74,"Margin of Error; Total: - Korean: - Speak English less than ""very well"""
+HD01_VD75,"Estimate; Total: - Mon-Khmer, Cambodian:"
+HD02_VD75,"Margin of Error; Total: - Mon-Khmer, Cambodian:"
+HD01_VD76,"Estimate; Total: - Mon-Khmer, Cambodian: - Speak English ""very well"""
+HD02_VD76,"Margin of Error; Total: - Mon-Khmer, Cambodian: - Speak English ""very well"""
+HD01_VD77,"Estimate; Total: - Mon-Khmer, Cambodian: - Speak English less than ""very well"""
+HD02_VD77,"Margin of Error; Total: - Mon-Khmer, Cambodian: - Speak English less than ""very well"""
+HD01_VD78,Estimate; Total: - Hmong:
+HD02_VD78,Margin of Error; Total: - Hmong:
+HD01_VD79,"Estimate; Total: - Hmong: - Speak English ""very well"""
+HD02_VD79,"Margin of Error; Total: - Hmong: - Speak English ""very well"""
+HD01_VD80,"Estimate; Total: - Hmong: - Speak English less than ""very well"""
+HD02_VD80,"Margin of Error; Total: - Hmong: - Speak English less than ""very well"""
+HD01_VD81,Estimate; Total: - Thai:
+HD02_VD81,Margin of Error; Total: - Thai:
+HD01_VD82,"Estimate; Total: - Thai: - Speak English ""very well"""
+HD02_VD82,"Margin of Error; Total: - Thai: - Speak English ""very well"""
+HD01_VD83,"Estimate; Total: - Thai: - Speak English less than ""very well"""
+HD02_VD83,"Margin of Error; Total: - Thai: - Speak English less than ""very well"""
+HD01_VD84,Estimate; Total: - Laotian:
+HD02_VD84,Margin of Error; Total: - Laotian:
+HD01_VD85,"Estimate; Total: - Laotian: - Speak English ""very well"""
+HD02_VD85,"Margin of Error; Total: - Laotian: - Speak English ""very well"""
+HD01_VD86,"Estimate; Total: - Laotian: - Speak English less than ""very well"""
+HD02_VD86,"Margin of Error; Total: - Laotian: - Speak English less than ""very well"""
+HD01_VD87,Estimate; Total: - Vietnamese:
+HD02_VD87,Margin of Error; Total: - Vietnamese:
+HD01_VD88,"Estimate; Total: - Vietnamese: - Speak English ""very well"""
+HD02_VD88,"Margin of Error; Total: - Vietnamese: - Speak English ""very well"""
+HD01_VD89,"Estimate; Total: - Vietnamese: - Speak English less than ""very well"""
+HD02_VD89,"Margin of Error; Total: - Vietnamese: - Speak English less than ""very well"""
+HD01_VD90,Estimate; Total: - Other Asian languages:
+HD02_VD90,Margin of Error; Total: - Other Asian languages:
+HD01_VD91,"Estimate; Total: - Other Asian languages: - Speak English ""very well"""
+HD02_VD91,"Margin of Error; Total: - Other Asian languages: - Speak English ""very well"""
+HD01_VD92,"Estimate; Total: - Other Asian languages: - Speak English less than ""very well"""
+HD02_VD92,"Margin of Error; Total: - Other Asian languages: - Speak English less than ""very well"""
+HD01_VD93,Estimate; Total: - Tagalog:
+HD02_VD93,Margin of Error; Total: - Tagalog:
+HD01_VD94,"Estimate; Total: - Tagalog: - Speak English ""very well"""
+HD02_VD94,"Margin of Error; Total: - Tagalog: - Speak English ""very well"""
+HD01_VD95,"Estimate; Total: - Tagalog: - Speak English less than ""very well"""
+HD02_VD95,"Margin of Error; Total: - Tagalog: - Speak English less than ""very well"""
+HD01_VD96,Estimate; Total: - Other Pacific Island languages:
+HD02_VD96,Margin of Error; Total: - Other Pacific Island languages:
+HD01_VD97,"Estimate; Total: - Other Pacific Island languages: - Speak English ""very well"""
+HD02_VD97,"Margin of Error; Total: - Other Pacific Island languages: - Speak English ""very well"""
+HD01_VD98,"Estimate; Total: - Other Pacific Island languages: - Speak English less than ""very well"""
+HD02_VD98,"Margin of Error; Total: - Other Pacific Island languages: - Speak English less than ""very well"""
+HD01_VD99,Estimate; Total: - Navajo:
+HD02_VD99,Margin of Error; Total: - Navajo:
+HD01_VD100,"Estimate; Total: - Navajo: - Speak English ""very well"""
+HD02_VD100,"Margin of Error; Total: - Navajo: - Speak English ""very well"""
+HD01_VD101,"Estimate; Total: - Navajo: - Speak English less than ""very well"""
+HD02_VD101,"Margin of Error; Total: - Navajo: - Speak English less than ""very well"""
+HD01_VD102,Estimate; Total: - Other Native North American languages:
+HD02_VD102,Margin of Error; Total: - Other Native North American languages:
+HD01_VD103,"Estimate; Total: - Other Native North American languages: - Speak English ""very well"""
+HD02_VD103,"Margin of Error; Total: - Other Native North American languages: - Speak English ""very well"""
+HD01_VD104,"Estimate; Total: - Other Native North American languages: - Speak English less than ""very well"""
+HD02_VD104,"Margin of Error; Total: - Other Native North American languages: - Speak English less than ""very well"""
+HD01_VD105,Estimate; Total: - Hungarian:
+HD02_VD105,Margin of Error; Total: - Hungarian:
+HD01_VD106,"Estimate; Total: - Hungarian: - Speak English ""very well"""
+HD02_VD106,"Margin of Error; Total: - Hungarian: - Speak English ""very well"""
+HD01_VD107,"Estimate; Total: - Hungarian: - Speak English less than ""very well"""
+HD02_VD107,"Margin of Error; Total: - Hungarian: - Speak English less than ""very well"""
+HD01_VD108,Estimate; Total: - Arabic:
+HD02_VD108,Margin of Error; Total: - Arabic:
+HD01_VD109,"Estimate; Total: - Arabic: - Speak English ""very well"""
+HD02_VD109,"Margin of Error; Total: - Arabic: - Speak English ""very well"""
+HD01_VD110,"Estimate; Total: - Arabic: - Speak English less than ""very well"""
+HD02_VD110,"Margin of Error; Total: - Arabic: - Speak English less than ""very well"""
+HD01_VD111,Estimate; Total: - Hebrew:
+HD02_VD111,Margin of Error; Total: - Hebrew:
+HD01_VD112,"Estimate; Total: - Hebrew: - Speak English ""very well"""
+HD02_VD112,"Margin of Error; Total: - Hebrew: - Speak English ""very well"""
+HD01_VD113,"Estimate; Total: - Hebrew: - Speak English less than ""very well"""
+HD02_VD113,"Margin of Error; Total: - Hebrew: - Speak English less than ""very well"""
+HD01_VD114,Estimate; Total: - African languages:
+HD02_VD114,Margin of Error; Total: - African languages:
+HD01_VD115,"Estimate; Total: - African languages: - Speak English ""very well"""
+HD02_VD115,"Margin of Error; Total: - African languages: - Speak English ""very well"""
+HD01_VD116,"Estimate; Total: - African languages: - Speak English less than ""very well"""
+HD02_VD116,"Margin of Error; Total: - African languages: - Speak English less than ""very well"""
+HD01_VD117,Estimate; Total: - Other and unspecified languages:
+HD02_VD117,Margin of Error; Total: - Other and unspecified languages:
+HD01_VD118,"Estimate; Total: - Other and unspecified languages: - Speak English ""very well"""
+HD02_VD118,"Margin of Error; Total: - Other and unspecified languages: - Speak English ""very well"""
+HD01_VD119,"Estimate; Total: - Other and unspecified languages: - Speak English less than ""very well"""
+HD02_VD119,"Margin of Error; Total: - Other and unspecified languages: - Speak English less than ""very well"""
